@@ -1,16 +1,24 @@
-# Projeto de Dashboard em Power BI
+# Análise de Consumo e Canais de Compra | Power BI
 
 ## Sobre o projeto
-Projeto de visualização de dados desenvolvido utilizando o Microsoft Power BI, com foco na apresentação de informações por meio de um dashboard.
+Dashboard desenvolvido durante o curso de Dados da PrograMaria, utilizando informações de uma pesquisa sobre consumo de produtos.
+
+O projeto apresenta indicadores e visualizações para facilitar a compreensão dos hábitos de consumo e dos canais de compra utilizados pelos participantes.
 
 ## Ferramenta utilizada
 - Microsoft Power BI
 
+## Indicadores e visualizações
+- Quantidade de respostas da pesquisa
+- Indicadores por canal de compra
+- Comparação de produtos e canais de venda
+- Distribuição geográfica dos participantes no Brasil
+
 ## Visualização do dashboard
-![Dashboard desenvolvido em Power BI](Dashboards.jpg)
+![Dashboard de análise de consumo](Dashboards.jpg)
 
 ## Objetivo
-Apresentar informações de maneira visual e organizada, facilitando a interpretação dos dados.
+Apresentar os resultados de uma pesquisa de consumo por meio de indicadores, gráficos e visualizações geográficas.
 
-## Portfólio
-Este projeto faz parte do meu portfólio de estudos e desenvolvimento de habilidades em tecnologia e Business Intelligence.
+## Formação
+Projeto acadêmico desenvolvido durante o curso de Dados da PrograMaria.
